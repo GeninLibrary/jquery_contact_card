@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper {
+    width: 700px;
+}
+.left_box {
+    width: 250px;
+    display: inline-block;
+}
+form {
+    padding:10px;
+}
+label,input {
+    display: block;
+    padding-top:15px;
+}
+textarea {
+    width: 220px;
+    height: 100px;
+}
+.right_box {
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
+.contact_card {
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+}
+.contact_card h1 {
+    font-size:25px;
+}
+.contact_card h2 {
+    font-size: 14px;
+}
